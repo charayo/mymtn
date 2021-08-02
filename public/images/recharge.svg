@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="28" viewBox="0 0 28 28">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_3232" data-name="Path 3232" d="M16.1-26.268v-22.47A16.762,16.762,0,0,0,8.345-50.5,17.45,17.45,0,0,0,.5-48.761v22.544A18.086,18.086,0,0,0,8.462-24.5,15.627,15.627,0,0,0,16.1-26.268ZM14.367-45.333H2.233v-2.319a16.649,16.649,0,0,1,6.112-1.114,15.8,15.8,0,0,1,6.022,1.125ZM2.234-31.444H14.367V-43.6H2.234Zm12.133,4.112a14.912,14.912,0,0,1-5.905,1.1,17.31,17.31,0,0,1-6.229-1.1v-2.375H14.367Zm-4.993-.744a1.086,1.086,0,0,0-.933-.934,1.084,1.084,0,0,0-1.215,1.215,1.086,1.086,0,0,0,.933.934,1.084,1.084,0,0,0,1.215-1.215ZM10.9-47.917H5.7v1.733h5.2Z" transform="translate(-0.5 50.5)" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_3231" data-name="Path 3231" d="M-97-60H59v-78H-97Z" transform="translate(97 138)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="recharge" transform="translate(21963 1115)">
+    <g id="Group_15482" data-name="Group 15482" transform="translate(-21957.301 -1063.5)">
+      <g id="Group_15481" data-name="Group 15481" transform="translate(0.5 -50.5)" clip-path="url(#clip-path)">
+        <g id="Group_15480" data-name="Group 15480" transform="translate(-50.7 -45.5)" clip-path="url(#clip-path-2)">
+          <path id="Path_3230" data-name="Path 3230" d="M-4.5-24.3H16.3V-55.5H-4.5Z" transform="translate(52.6 98.4)"/>
+        </g>
+      </g>
+    </g>
+    <rect id="Rectangle_7637" data-name="Rectangle 7637" width="28" height="28" transform="translate(-21963 -1115)" fill="none"/>
+  </g>
+</svg>
