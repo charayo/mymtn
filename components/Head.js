@@ -4,7 +4,7 @@ class Headers extends Component {
   render() {
     return (
       <Head>
-        <title>Love World Network</title>
+        <title>My MTN App</title>
         <link rel="icon" href="/favicon.ico" />
         <link
           rel="stylesheet"
