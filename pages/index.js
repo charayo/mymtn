@@ -6,6 +6,7 @@ import MainNav from '../components/nav'
 import React, { Component } from 'react'
 import Header from '../components/Header'
 import Signin from '../components/Signin'
+import Accordion from '../components/Accordion'
 
 export class index extends Component {
   render() {
@@ -13,6 +14,7 @@ export class index extends Component {
       <div>
         <Header />
         <Signin />
+        <Accordion />
       </div>
     )
   }

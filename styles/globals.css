@@ -54,3 +54,13 @@ a {
   content: '';
   bottom: 0;
 }
+.accord-btn:focus{
+  outline: 0 !important;
+}
+
+@media only screen and (min-width: 768px) {
+  .btn-inp{
+    height: 70% !important;
+    width: 50%;
+  }
+}
